@@ -142,6 +142,17 @@ vanbc/
 
 ---
 
+## Sister skills
+
+Companion Claude Skills for related Canadian building-code jurisdictions:
+
+- [British-Columbia-Building-Code-Skill](https://github.com/dorianbanks/British-Columbia-Building-Code-Skill) — BCBC 2024 for BC projects outside Vancouver.
+- [Yellowknife-Building-Bylaw-Skill](https://github.com/dorianbanks/Yellowknife-Building-Bylaw-Skill) — Yellowknife Building By-law No. 5058 (parallel Canadian municipal by-law, NWT).
+- [National-Building-Code-of-Canada-Skill](https://github.com/dorianbanks/National-Building-Code-of-Canada-Skill) — NBC 2020 as the national model the VBBL is largely aligned with.
+- [National-Energy-Code-of-Canada-Skill](https://github.com/dorianbanks/National-Energy-Code-of-Canada-Skill) — NECB 2020 for Part 3 non-residential energy framework.
+
+---
+
 ## Credits
 
 Built by **Dorian Banks**. Released under the MIT License — see
